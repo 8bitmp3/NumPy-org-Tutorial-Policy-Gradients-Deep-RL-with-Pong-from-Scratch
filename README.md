@@ -1,6 +1,6 @@
 # Tutorial: deep reinforcement learning with Pong from pixels
 
-_Author: [@8bitmp3](https://github.com/8bitmp3) (Google's Season of Docs 2021 with NumPy)_
+_Author: [@8bitmp3](https://github.com/8bitmp3) (Google's Season of Docs 2020 with NumPy)_
 
 This tutorial demonstrates how to implement a deep reinforcement learning (RL)
 agent from scratch using a policy gradient method that learns to play the
